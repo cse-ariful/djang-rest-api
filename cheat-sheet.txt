@@ -1,0 +1,12 @@
+create project
+create app
+install django
+install rest frameworks
+
+create models (api/model.py)
+makemigrations
+migrate
+add this model to admin.py (api/admin.py)
+
+
+generic api view cal do everything with a very short line of code
